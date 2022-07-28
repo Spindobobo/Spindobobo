@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Spindobobo/Spindobobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    🧑‍💼 I’m currently transitioning from psychology to programming
 
-Here are some ideas to get you started:
+    🌱 I’m currently learning => Java | Spring | AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    👯 I’m looking to collaborate on OpenSource projects
+
+    📫 How to reach me: rafa.spin95@gmail.com
+
+    🎓 I'm studying computer sciences from https://github.com/ossu/computer-science
+
+    🎯 I pretend to be a backend developer using Java + Spring to develop APIs
+
+    🌱 My website: spindobobo.github.io/linktree/
+
